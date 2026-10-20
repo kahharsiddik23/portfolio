@@ -6,10 +6,10 @@ export const config = {
     description: "Security researcher focused on discovering vulnerabilities, understanding attack surfaces, and helping organizations build more secure applications.",
     about: "I'm Kahhar Siddik, a cybersecurity enthusiast and bug bounty hunter focused on discovering vulnerabilities in modern web applications and digital systems. My approach combines systematic reconnaissance, creative security testing, vulnerability analysis, and automation. I continuously learn, experiment, document findings, and improve my methodology to become a better security researcher.",
     status: "Available for Security Research & Collaboration",
-    email: "contact@example.com", // Placeholder
+    email: "khaharsiddik@gmail.com",
   },
   social: {
-    github: "https://github.com", // Placeholder
+    github: "https://github.com/kahharsiddik23",
     linkedin: "https://linkedin.com", // Placeholder
     hackerone: "https://hackerone.com", // Placeholder
     twitter: "https://twitter.com", // Placeholder
